@@ -162,3 +162,8 @@ We explored this question using:
 4. Scikit-learn Machine Learning Documentation.
 
 --- 
+**Name** : Shyam Kumar Chittaluru
+**Group**:  Likhith Sai Challa, Shuojen Cheng, Weidong Ding
+**LinkediN**: https://www.linkedin.com/in/shyamkumarchittaluru/ 
+**Course**: ALY6980 70854 Capstone SEC 04 Fall 2024 CPS [BOS-1-HY]
+**Univeristy**: Northeastern University
