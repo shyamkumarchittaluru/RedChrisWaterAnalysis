@@ -1,0 +1,2 @@
+name,datetime,temp,feelslike,dew,humidity,precip,precipprob,preciptype,snow,snowdepth,windgust,windspeed,winddir,sealevelpressure,cloudcover,visibility,solarradiation,solarenergy,uvindex,severerisk,conditions,icon,stations
+"57.73340009401204, -129.76718266300554",2024-12-14T00:00:00,-12.2,-12.2,-13.8,87.9,0,0,,0,0,,0.9,65,1002,100,14,0,0,0,,Overcast,cloudy,"CYDL,CWKX,BF023"
